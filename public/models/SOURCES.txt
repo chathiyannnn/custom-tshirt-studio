@@ -1,0 +1,3 @@
+tshirt.glb and hoodie.glb are authored glTF meshes loaded as-is (no vertex edits).
+Source: https://github.com/criticberlin/3D_Clothes_Project (README: MIT License)
+To use OpenIV garments, export .ydd to .glb and replace these files.
